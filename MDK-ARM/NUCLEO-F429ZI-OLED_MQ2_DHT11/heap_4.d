@@ -1,0 +1,13 @@
+nucleo-f429zi-oled_mq2_dht11\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+nucleo-f429zi-oled_mq2_dht11\heap_4.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+nucleo-f429zi-oled_mq2_dht11\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+nucleo-f429zi-oled_mq2_dht11\heap_4.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+nucleo-f429zi-oled_mq2_dht11\heap_4.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+nucleo-f429zi-oled_mq2_dht11\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
+nucleo-f429zi-oled_mq2_dht11\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+nucleo-f429zi-oled_mq2_dht11\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+nucleo-f429zi-oled_mq2_dht11\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+nucleo-f429zi-oled_mq2_dht11\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+nucleo-f429zi-oled_mq2_dht11\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+nucleo-f429zi-oled_mq2_dht11\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+nucleo-f429zi-oled_mq2_dht11\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

@@ -1,0 +1,15 @@
+nucleo-f429zi-oled_mq2_dht11\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+nucleo-f429zi-oled_mq2_dht11\event_groups.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+nucleo-f429zi-oled_mq2_dht11\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+nucleo-f429zi-oled_mq2_dht11\event_groups.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+nucleo-f429zi-oled_mq2_dht11\event_groups.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+nucleo-f429zi-oled_mq2_dht11\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
+nucleo-f429zi-oled_mq2_dht11\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+nucleo-f429zi-oled_mq2_dht11\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+nucleo-f429zi-oled_mq2_dht11\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+nucleo-f429zi-oled_mq2_dht11\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+nucleo-f429zi-oled_mq2_dht11\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+nucleo-f429zi-oled_mq2_dht11\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+nucleo-f429zi-oled_mq2_dht11\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+nucleo-f429zi-oled_mq2_dht11\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+nucleo-f429zi-oled_mq2_dht11\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h
